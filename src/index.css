@@ -22,11 +22,16 @@ a{
     padding-right: 16px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(64, 0, 110);
 }
 
 section{
     height: 100vh;
+    scroll-snap-align: center;
+}
+
+html{
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
 }
 
 @media(min-width: 640px){
