@@ -1,0 +1,5 @@
+1. Created vite app
+2. Deleted everything unneccessary
+3. Created all sections and their .css files
+4. index.css: padding, margins, section height, colors, background, font
+5. SnapScroll effect for each section
