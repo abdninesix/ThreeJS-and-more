@@ -4,3 +4,4 @@
 4. index.css: padding, margins, section height, colors, background, font
 5. index.css: snap scroll effect
 6. Hero section
+7. React-type-animation
