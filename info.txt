@@ -8,4 +8,5 @@
 8. Hero image
 9. Motion.dev for animation: in motion we can define initial, animate, transition in the div, define initial/animate in an array or outside the function as a variant
 10. Staggerchildren feature animates the children of div one by one after given time interval
-11. 
+11. Media queries for responsive design for hero section
+12. 
