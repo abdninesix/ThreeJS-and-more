@@ -8,5 +8,11 @@
 8. Hero image
 9. Motion.dev for animation: in motion we can define initial, animate, transition in the div, define initial/animate in an array or outside the function as a variant
 10. Staggerchildren feature animates the children of div one by one after given time interval
-11. Media queries for responsive design for hero section
-12. 
+11. Media queries for responsive design: 1536px, 1280px, 1024px, 768px, 640px.
+12. 3D object using @react-three/fiber and @react/three/drei
+13. 3D models downloaded from sketchfab.com in .gltf format
+14. After modifications of texture, convert to .glb using gltf pipeline
+15. .glb will then be converted into a .jsx componenent
+16. To trigger animation when in view, we used useInView
+17. We gave a reference to div using useRef and used this reference inside useInView
+18. Also set a margin in useInView accordingly
