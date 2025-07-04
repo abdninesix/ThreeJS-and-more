@@ -16,3 +16,5 @@
 16. To trigger animation when in view, we used useInView
 17. We gave a reference to div using useRef and used this reference inside useInView
 18. Also set a margin in useInView accordingly
+19. Set the ID of each 3D model and use the ID as a state for onclick function
+20. 
